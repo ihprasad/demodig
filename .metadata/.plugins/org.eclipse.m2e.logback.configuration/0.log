@@ -1,0 +1,30 @@
+2018-12-19 00:11:54,075 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\pom.xml
+2018-12-19 00:11:58,120 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.acc:JenDemo:0.0.1-SNAPSHOT @ C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\pom.xml.
+2018-12-19 00:12:00,160 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JenDemo/src/main/java
+2018-12-19 00:12:00,188 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JenDemo/src/test/java
+2018-12-19 00:12:03,160 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2018-12-19 00:12:04,462 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:12:04,463 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\main\resources
+2018-12-19 00:12:04,468 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:12:04,469 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\test\resources
+2018-12-19 00:15:00,228 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:15:00,229 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\main\resources
+2018-12-19 00:15:00,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:15:00,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\test\resources
+2018-12-19 00:16:43,376 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-12-19 00:16:44,724 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.acc:JenDemo:0.0.1-SNAPSHOT @ C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\pom.xml.
+2018-12-19 00:16:45,362 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JenDemo/src/main/java
+2018-12-19 00:16:45,365 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JenDemo/src/test/java
+2018-12-19 00:16:45,626 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-12-19 00:16:45,987 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:16:45,988 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\main\resources
+2018-12-19 00:16:45,993 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:16:45,994 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\test\resources
+2018-12-19 00:18:20,854 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:18:20,854 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\main\resources
+2018-12-19 00:18:20,857 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:18:20,858 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\test\resources
+2018-12-19 00:18:40,692 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:18:40,693 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\main\resources
+2018-12-19 00:18:40,696 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-19 00:18:40,699 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\indugu.hari.prasad\Documents\MyPractice\jenkinsDemo\demodig\JenDemo\src\test\resources
